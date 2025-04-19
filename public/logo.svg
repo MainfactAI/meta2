@@ -1,0 +1,116 @@
+<svg width="800" height="800" viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="800" fill="transparent" />
+  <g transform="translate(100, 100) scale(0.75)">
+    <path d="M400 50 C 100 150, 50 400, 150 700 C 200 720, 600 720, 650 700 C 750 400, 700 150, 400 50" fill="none" stroke="#1A76D2" stroke-width="2" />
+    <g fill="#1A76D2">
+      <circle cx="400" cy="50" r="3" />
+      <circle cx="150" cy="700" r="3" />
+      <circle cx="650" cy="700" r="3" />
+    </g>
+    <!-- Dotted world map pattern -->
+    <g fill="#1A76D2">
+      <!-- North America pattern -->
+      <g transform="translate(150, 200) scale(0.8)">
+        <!-- Add dots for continent -->
+        <g>
+          <circle cx="0" cy="0" r="1.5" />
+          <circle cx="10" cy="5" r="1.5" />
+          <circle cx="20" cy="0" r="1.5" />
+          <circle cx="30" cy="5" r="1.5" />
+          <circle cx="40" cy="10" r="1.5" />
+          <circle cx="20" cy="15" r="1.5" />
+          <circle cx="10" cy="20" r="1.5" />
+          <circle cx="30" cy="20" r="1.5" />
+          <circle cx="40" cy="25" r="1.5" />
+          <circle cx="50" cy="20" r="1.5" />
+          <circle cx="60" cy="15" r="1.5" />
+          <circle cx="70" cy="20" r="1.5" />
+          <circle cx="80" cy="25" r="1.5" />
+          <circle cx="70" cy="30" r="1.5" />
+          <circle cx="60" cy="35" r="1.5" />
+          <circle cx="50" cy="40" r="1.5" />
+          <circle cx="40" cy="45" r="1.5" />
+          <circle cx="30" cy="50" r="1.5" />
+          <circle cx="20" cy="45" r="1.5" />
+          <circle cx="10" cy="50" r="1.5" />
+          <circle cx="0" cy="55" r="1.5" />
+          <circle cx="20" cy="60" r="1.5" />
+          <circle cx="30" cy="65" r="1.5" />
+          <circle cx="40" cy="60" r="1.5" />
+          <circle cx="50" cy="65" r="1.5" />
+          <circle cx="60" cy="60" r="1.5" />
+          <circle cx="70" cy="65" r="1.5" />
+          <circle cx="80" cy="60" r="1.5" />
+          <circle cx="90" cy="65" r="1.5" />
+          <circle cx="100" cy="60" r="1.5" />
+        </g>
+      </g>
+      
+      <!-- Europe & Asia pattern -->
+      <g transform="translate(350, 200) scale(0.8)">
+        <!-- Add dots for continents -->
+        <g>
+          <circle cx="0" cy="0" r="1.5" />
+          <circle cx="10" cy="5" r="1.5" />
+          <circle cx="20" cy="0" r="1.5" />
+          <circle cx="30" cy="5" r="1.5" />
+          <circle cx="40" cy="0" r="1.5" />
+          <circle cx="50" cy="5" r="1.5" />
+          <circle cx="60" cy="10" r="1.5" />
+          <circle cx="70" cy="5" r="1.5" />
+          <circle cx="80" cy="0" r="1.5" />
+          <circle cx="90" cy="5" r="1.5" />
+          <circle cx="100" cy="10" r="1.5" />
+          <circle cx="110" cy="15" r="1.5" />
+          <circle cx="100" cy="20" r="1.5" />
+          <circle cx="90" cy="25" r="1.5" />
+          <circle cx="80" cy="30" r="1.5" />
+          <circle cx="70" cy="25" r="1.5" />
+          <circle cx="60" cy="30" r="1.5" />
+          <circle cx="50" cy="35" r="1.5" />
+          <circle cx="40" cy="30" r="1.5" />
+          <circle cx="30" cy="35" r="1.5" />
+          <circle cx="20" cy="40" r="1.5" />
+          <circle cx="10" cy="35" r="1.5" />
+          <circle cx="0" cy="40" r="1.5" />
+          <circle cx="10" cy="45" r="1.5" />
+          <circle cx="20" cy="50" r="1.5" />
+          <circle cx="30" cy="45" r="1.5" />
+          <circle cx="40" cy="50" r="1.5" />
+          <circle cx="50" cy="55" r="1.5" />
+          <circle cx="60" cy="50" r="1.5" />
+          <circle cx="70" cy="55" r="1.5" />
+          <circle cx="80" cy="60" r="1.5" />
+          <circle cx="90" cy="55" r="1.5" />
+          <circle cx="100" cy="60" r="1.5" />
+          <circle cx="110" cy="65" r="1.5" />
+        </g>
+      </g>
+      
+      <!-- Australia pattern -->
+      <g transform="translate(450, 450) scale(0.8)">
+        <!-- Add dots for continent -->
+        <g>
+          <circle cx="0" cy="0" r="1.5" />
+          <circle cx="10" cy="5" r="1.5" />
+          <circle cx="20" cy="0" r="1.5" />
+          <circle cx="30" cy="5" r="1.5" />
+          <circle cx="40" cy="0" r="1.5" />
+          <circle cx="50" cy="5" r="1.5" />
+          <circle cx="60" cy="10" r="1.5" />
+          <circle cx="50" cy="15" r="1.5" />
+          <circle cx="40" cy="20" r="1.5" />
+          <circle cx="30" cy="15" r="1.5" />
+          <circle cx="20" cy="20" r="1.5" />
+          <circle cx="10" cy="25" r="1.5" />
+          <circle cx="0" cy="20" r="1.5" />
+          <circle cx="10" cy="15" r="1.5" />
+        </g>
+      </g>
+    </g>
+    
+    <!-- Company name -->
+    <text x="400" y="350" font-family="Arial" font-size="48" font-weight="bold" text-anchor="middle" fill="#ffffff">Meta International</text>
+    <text x="400" y="450" font-family="SimSun, Arial" font-size="48" font-weight="bold" text-anchor="middle" fill="#ffffff">迈特国际</text>
+  </g>
+</svg>
